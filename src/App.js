@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>OMDB Movie Search</h1>
+      <h1 className="title">OMDB Movie Search</h1>
       <div className='search'>
         <input
           placeholder='Search for Movie Titles'
